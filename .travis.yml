@@ -11,3 +11,6 @@ branches:
   only:
     - main
     - development
+    - version_2
+    - version_3
+    - project_3
