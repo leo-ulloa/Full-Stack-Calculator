@@ -12,5 +12,3 @@
 ![flask messages](images/three.JPG)
 # Video link:
 https://youtu.be/QVEc5cVco7U
-# Github Pages:
-https://leo-ulloa.github.io/is218Project2/index.html
